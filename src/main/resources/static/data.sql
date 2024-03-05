@@ -1,0 +1,2 @@
+INSERT INTO STORE_USER (USER_TYPE, FIRST_NAME, LAST_NAME, EMAIL_ADDRESS, PHONE_NUMBER) VALUES('Admin', 'online', 'store', 'onlinestoreadmin@gmail.com', '971561234567');
+
